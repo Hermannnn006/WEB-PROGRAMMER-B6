@@ -1,0 +1,3 @@
+-menginstall vscode, xampp, dan git
+-membuat folder
+-belajar cara menjalankan file yang telah dibuat dengan beberapa cara 

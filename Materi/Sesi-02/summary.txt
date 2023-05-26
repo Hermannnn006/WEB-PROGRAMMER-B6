@@ -1,0 +1,8 @@
+inspek element, develover tool
+<i></i>, <em></em> membuat tulisan menjadi bold
+<ol></ol> membuat list dengan urutan angka
+<ul></ul> membuat list dengan bullet point
+belajar tentang form
+belajar layouting block, inline
+membuat portfolio dengan html
+belajar git
