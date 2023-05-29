@@ -1,0 +1,17 @@
+CSS Selector
+Sebuah penanda, elemen/tag HTML yang ingin diberi style. Anda dapat menuliskan langsung nama tag yang ingin diberi style tanpa perlu menambahkan tanda <>.
+
+class tidak unik, id unik
+
+Property dan Value
+Property adalah sifat-sifat yang ingin diterapkan pada selector, seperti warna text, warna background, jarak antar elemen, garis pinggir dan lain sebagainya.
+
+css placement
+inline, internal, eksternal
+
+Margin 
+Margin adalah sisi luar dari sebuah element. misalnya anda ingin mengatur jarak antar element.
+
+Padding
+Padding adalah sisi dalam dari sebuah element.
+kita bisa menggunakan syntax padding untuk mengatur jarak pada sisi dalam sebuah element yang kita tentukan.
