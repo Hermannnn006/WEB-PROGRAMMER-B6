@@ -1,0 +1,12 @@
+algoritma menghitung luas dan keliling lingkaran
+1. menghitung luas lingkaran
+    - deklarasikan variabel phi 3.14, r dan L
+    - inputkan nilai r
+    - lakukan perhitungan dengan rumus : L = 3.14 * r * r
+    - tampilkan hasil perhitungan
+
+2. menghitung keliling lingkaran
+    - deklarasikan variabel phi 3.14, K, r, d
+    - inputkan nilai r atau d
+    - lakukan perhitungan dengan rumus : K = 2*(3.14*r),  K = 2*(3.14*d)
+    - tampilkan hasil perhitungan
