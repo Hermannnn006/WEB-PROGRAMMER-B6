@@ -1,0 +1,1 @@
+alert("Saya memanggil file eksternal javascript dengan alert");
