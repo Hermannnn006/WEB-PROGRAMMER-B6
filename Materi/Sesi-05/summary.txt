@@ -1,0 +1,16 @@
+javascript adalah bahasa pemrograman yang dapat membuat halaman web menjadi interaktif
+
+penggunaan javascript
+1. internal
+2. eksternal
+
+tipe data pada javascript
+1. Integer atau Number (bilangan bulat) 
+2. String (teks)
+3. Boolean
+4. Object
+
+Function
+Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam program itu sendiri, maupun di program yang lain.
+
+

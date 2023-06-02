@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hitung Maju Mundur JS</title>
+</head>
+<body>
+    <h1>Hitung Maju Mundur</h1>
+
+    <script>
+        let i = 0;
+        function tambah() {
+            i++;
+            document.getElementById('hasil').value = i;
+        }
+
+        function kurang() {
+            i--;
+            document.getElementById('hasil').value = i;
+        }
+    </script>
+    <button onclick="tambah();">Tambah</button>
+    <button onclick="kurang();">Kurang</button><br>
+    <input type="text" id="hasil" value="0"></input>
+</body>
+</html>

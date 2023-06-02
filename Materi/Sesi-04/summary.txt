@@ -1,0 +1,25 @@
+Apa itu Algoritma ?
+serangkaian urutan langkah-langkah yang tepat, logis, terperinci, dan terbatas untuk menyelesaikan suatu masalah yang disusun secara sistematis.
+
+Mengapa Algoritma ?
+1. Algoritma adalah inti dari ilmu komputer
+2. Algoritma adalah urutan-urutan dari instruksi atau langkah-langkah untuk menyelesaikan suatu masalah
+3. Algoritma adalah blueprint dari program
+4. Sebaiknya disusun sebelum membuat program
+
+Kriteria Algoritma
+1. Ada input dan output
+2. Efektifitas dan efisien
+3. Terstruktur
+
+Psedudocode adalah konvensi terstruktur atau cara menyajikan penjelasan algoritma dengan bahasa yang deskriptif seperti kita menulis kalimat biasa sehingga mudah kita baca. Umumnya digunakan bahasa Inggris atau bahasa perantara yang mirip bahasa pemrograman.
+
+conditional concept
+ketika suatu keadaan terpenuhi maka lakukan a
+jika suatu kondisi tidak terpenuhi maka lakukan b
+
+contoh
+if nilai siswa lebih besar dari 75 maka tampilkan lulus, else tidak lulus
+
+looping concept
+Looping akan terus dilakukan sampai sebuah kondisi terpenuhi. Contoh mudahnya adalah, kita akan makan hingga kenyang bukan?
