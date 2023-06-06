@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Belajar Regex</title>
+  </head>
+  <body>
+    <!-- 
+        no telp : +62 62 08 (0 nya dihilangin, cukup input 8)
+        08 22222
+        08 (space)
+        08-
+
+        email : @ .
+
+     -->
+    <input type="email" placeholder="Input Email Anda" />
+
+    <script>
+      // regex 1
+      var foo = /ab+c/;
+      console.log(foo);
+      console.log(typeof foo);
+
+      var bar = new RegExp("ab+c");
+      console.log(bar);
+      console.log(typeof bar);
+
+      // regex 2
+      var foo = "Belajar JavaScript";
+      var pola = /JavaScript/;
+      console.log(pola.test(foo));
+      console.log(/Belajar/.test(foo));
+      console.log(/Belajar/.test(foo));
+
+      //   regex 3
+      var foo =
+        "1 jam sama dengan 60 menit, juga sama dengan 3600 detik | Hello 10 Jam";
+      var pola = /\d+/g;
+      console.log(foo.length);
+
+      //   menggunakan looping
+      for (let index = 0; index < 5; index++) {
+        console.log(pola.exec(foo));
+      }
+      //   manual
+      console.log(pola.exec(foo));
+      console.log(pola.exec(foo));
+      console.log(pola.exec(foo));
+      console.log(pola.exec(foo));
+    </script>
+  </body>
+</html>
