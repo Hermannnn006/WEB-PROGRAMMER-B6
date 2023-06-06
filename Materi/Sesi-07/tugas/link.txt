@@ -1,0 +1,2 @@
+netlify https://candid-fox-485f99.netlify.app/
+github https://github.com/Hermannnn006/portfolio
