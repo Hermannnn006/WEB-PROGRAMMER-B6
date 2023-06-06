@@ -1,0 +1,13 @@
+netlify https://candid-fox-485f99.netlify.app/
+github https://github.com/Hermannnn006/portfolio
+
+Apa itu Software Testing ?
+Software Testing adalah salah satu step dalam development aplikasi. Pada tahap software testing, dilakukan pengecekan apakah result yang didapatkan dari aplikasi sesuai dengan result yang diharapkan dari aplikasi tersebut. Tidak hanya itu, software testing juga dilakukan untuk memastikan bahwa sistem dari aplikasi tersebut sesempurna mungkin (meskipun tidak mungkin perfect, setidaknya sebisa mungkin mendekati perfect). Software testing juga membantu untuk mengidentifikasi error dan requirements yang kurang sesuai. Software testing dapat dilakukan secara manual ataupun menggunakan automated tools.
+
+Terdapat 3 macam paradigma software testing, yaitu :
+1. Unit Testing
+Unit Testing mengacu pada test yang dilakukan pada potongan-potongan code atau unit, sehingga kita dapat memastikan bahwa potongan code tersebut dapat berjalan dengan semestinya, sesuai dengan yang kita harapkan.
+2. Functional Testing
+Functional Testing mengacu pada test yang dilakukan untuk melihat behavior dari component.
+3. Integration Testing
+Integration Testing mengacu pada test yang dilakukan kepada keseluruhan sistem dari aplikasi dengan seperti layaknya end-user menggunakan aplikasi tersebut.
