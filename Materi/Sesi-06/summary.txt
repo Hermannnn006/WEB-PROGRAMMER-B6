@@ -1,0 +1,5 @@
+DOM merupakan singkatan dari Document Object Model. Artinya, dokumen (HTML) yang dimodelkan dalam sebuah objek.
+Regular Expression atau sering disingkat RegExp atau RE adalah suatu mekanisme pencocokan pola (pattern matching) yang dibuat dengan menggunakan karakter-karakter khusus. Fungsinya sangat beragam, mulai dari memeriksa apakah sebuah inputan sudah sesuai atau belum (test), untuk membuat fitur pencarian (search) atau penggantian string (replace).
+Menggunakan object constructor, perintahnya adalah new RegExp(). Dimana pola regular expression diinput sebagai argumen dari RegExp(). Cara ini tidak sering dipakai karena kurang efisien jika dibandingkan penulisan literal. Namun apabila pola regular expression diinput secara realtime (misalnya kode regexp diinput langsung dari form). Penulisan object contructor bisa dipakai.
+Method test()  digunakan untuk memeriksa apakah sebuah string lolos dari pola regular expression yang diinput. Jika lolos, hasilnya true. Jika tidak, hasilnya false.
+Method exec() berfungsi untuk mencari karakter atau kata yang cocok dengan pola regular expression, kemudian menyimpan hasilnya ke dalam array.
